@@ -52,9 +52,41 @@ Fira Code v6.2
 
 ## 电脑软件清单
 
+### 办公工具
+
+#### Chrome
+
+#### Typora
+
+Email: 1042614797@qq.com
+
+License Code: HWS288-EMETU3-7WB7XZ-E3VVMN
+
+#### NotePad++
+
+
+
+### 游戏
+
+#### 奇游加速器
+
+#### Steam
+
+#### Epic
+
+#### Blizzard
+
+#### WeGame
+
+
+
 ### 多媒体
 
+#### 7-zip
+
 #### Pot Player
+
+#### QQ音乐
 
 ### 资源管理
 
